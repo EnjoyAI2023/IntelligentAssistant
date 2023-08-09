@@ -1,0 +1,3 @@
+gradio
+pyttsx3
+openai
